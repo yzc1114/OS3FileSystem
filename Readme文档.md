@@ -37,7 +37,7 @@ java -jar os3.jar
 
 ### 实现界面
 使用类似linux, Unix的Shell界面。
-![shell界面](/img/1)
+![shell界面](/img/1.png)
 
 ### 实现准则
 本文件管理系统使用“位图”与“FAT显式链接”结合起来的方式实现的该文件系统。
